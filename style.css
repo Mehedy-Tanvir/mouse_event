@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    background: blue;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.xcontainer {
+    color: whitesmoke;
+    text-align: center;
+    margin: 20px;
+}
+
+.xcount {
+
+    border: 2px solid whitesmoke;
+    height: 200px;
+    width: 200px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.ycontainer {
+    color: whitesmoke;
+    text-align: center;
+    margin: 20px;
+}
+
+.ycount {
+
+    border: 2px solid whitesmoke;
+    height: 200px;
+    width: 200px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
